@@ -1,4 +1,4 @@
 
 ## Modern Redux
 
-Implantation of Redux using Redux Toolkit and TypeScript.
+Implementation of Redux using Redux Toolkit and TypeScript.
